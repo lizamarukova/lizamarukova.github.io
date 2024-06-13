@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+}
+body{
+    margin:100px 0 0 0;
+}
+header{
+    background-color:#DCC1A9 ;
+    padding:10px 5% ;
+    left:0;
+    top:0;
+     width:100%;
+}
+header>*{
+    display: inline-block;
+}
+.probel{
+    width: 668px ;
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin: 0 15px;
+
+}
+.five{
+    display: flex;
+    justify-content:space-around;
+    align-items: stretch;
+    flex-wrap: wrap; 
+    margin: 15px;
+    padding: 20px;
+}
+nav{
+    justify-content:flex-end;
+}
+footer{ 
+    background-color: #DCC1A9;
+    border:1px double black;
+}
+.two{
+    width: 274px ;
+    display:flex;
+    justify-content:center;
+}
+.first{
+   object-fit: cover;
+    display:flex;
+    justify-content:center;
+}
+.six{
+    border:1px double black;
+}
+h1{
+    font-size:37px;
+    font-family:merriweather;
+}
+h2{
+    font-size:26px;
+    font-family:kosugi maru;
+    background-color: #E1526C;
+    border-radius:12px ;
+    display: block;
+}
+p{
+    font-size:20px;
+    display: block;
+
+}
+.free{
+     display:flex;
+     object-fit: cover;
+     height: auto;
+     width: 425px;
+}
+.pink{
+    position: absolute;
+    margin: 50px;
+}
+.ellipse{
+    position: absolute;
+}
+.uslugi{
+    display: flex;
+    justify-content: center;
+}
+logo{
+    position: absolute;
+    object-fit: cover;
+} 
+.log{
+    position: absolute;
+    top: 400px;
+    left:770px;
+}
+.photo{
+    top:1000px ; 
+    position: absolute;
+}
+.pink{
+    display: flex;
+    justify-content:center;
+}
+.instyle{
+position:absolute;
+right: 800px;
+bottom: 400px;
+}
+
+
+
